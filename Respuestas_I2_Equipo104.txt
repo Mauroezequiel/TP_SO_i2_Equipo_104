@@ -12,3 +12,30 @@ BETA
 c- si, siempre y cuando haya un pull request acutalizando el repositorio raiz
 
 d- no, solamente se agregan los archivos a los que ya estan en el repositorio raiz, es decir hay una actualizacion
+
+ALFA
+
+e-
+Gamma:
+git clone (y el link)
+git status 
+git add . 
+git commit -m
+git push
+git pull origin main
+
+Alfa:
+git clone (y el link)
+git status 
+git add . 
+git commit -m
+git push
+git pull origin main
+
+Beta:
+git clone (y el link)
+git status 
+git add . 
+git commit -m
+git push
+
