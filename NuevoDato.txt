@@ -1,0 +1,3 @@
+GAMMA 
+a- El repositorio se actualiza haciendo sync fork desde GitHub
+b- ALFa puede actualizar su fork sólo al estado del fork de BETA, quien creó el repositor origen.
