@@ -1,0 +1,14 @@
+Santiago Aguilar
+Evelyn Allende
+Mauro Gomez
+
+GAMMA 
+a- El repositorio se actualiza al estado del repositorio origen haciendo sync fork desde el repositorio fork
+b- A través de pull request, el repositorio origen puede actualizar el main y ALFA desde git y "git pull origin main" para 
+actualizar su repositorio local puede visualizar el estado de GAMMA
+
+BETA
+
+c- si, siempre y cuando haya un pull request acutalizando el repositorio raiz
+
+d- no, solamente se agregan los archivos a los que ya estan en el repositorio raiz, es decir hay una actualizacion
